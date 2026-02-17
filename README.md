@@ -37,7 +37,7 @@ Help a retail business understand how demographics, discounts, purchase frequenc
 ### 1. Clone the repository
 Run the following commands in your terminal:
 ```bash
-git clone https://github.com/Travis-Shakeel/Customer-Purchase-Insights
+git clone https://github.com/taahashakeel/Customer-Purchase-Insights
 cd Customer_Purchase_Insights
 ```
 
